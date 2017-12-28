@@ -20,7 +20,7 @@ for front app (angular 4)
 
 install angular Cli
 
-browse to front folder
+browse to front project in my repositories &
 
 run npm install 
 
